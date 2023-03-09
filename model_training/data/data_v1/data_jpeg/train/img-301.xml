@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>img-301.jpeg</filename>
+	<path>C:/Users/Larkuo/Documents/Personal Projects/FindMyGlasses/model_training/data/data_v1/data_jpeg/train/img-301.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>glasses</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>237</ymin>
+			<xmax>383</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>glasses</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>39</ymin>
+			<xmax>372</xmax>
+			<ymax>165</ymax>
+		</bndbox>
+	</object>
+</annotation>

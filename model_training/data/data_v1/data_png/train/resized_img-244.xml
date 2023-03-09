@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Resized Copy</folder>
+	<filename>resized_img-244.png</filename>
+	<path>C:\Users\Larkuo\Documents\School\Year 4 Redo\Semester 1\Introduction to Robotics AI\Final Project Option 3\Images_Unlabelled\scrapped\Resized Scrape\Resized Copy\resized_img-244.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>glasses</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>233</ymin>
+			<xmax>355</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>validate</folder>
+	<filename>img-313.jpeg</filename>
+	<path>C:/Users/Larkuo/Documents/Personal Projects/FindMyGlasses/model_training/data/data_v1/data_jpeg/validate/img-313.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>glasses</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>118</ymin>
+			<xmax>383</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>

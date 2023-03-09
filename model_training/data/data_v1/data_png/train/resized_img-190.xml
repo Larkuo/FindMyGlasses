@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Labelled Resize</folder>
+	<filename>resized_img-190.png</filename>
+	<path>C:\Users\Larkuo\Documents\School\Year 4 Redo\Semester 1\Introduction to Robotics AI\Final Project Option 3\Images_Unlabelled\scrapped\Labelled Resize\resized_img-190.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>glasses</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>207</ymin>
+			<xmax>400</xmax>
+			<ymax>350</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>glasses</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>50</ymin>
+			<xmax>400</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+</annotation>
